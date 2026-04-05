@@ -1,0 +1,25 @@
+body{
+            background-color: green;
+            font-size: x-large;
+
+        }
+        nav{
+            text-align: center;
+        }
+        h1{
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        hr{
+            color: black;
+        }
+        ul{
+            background-color: white;
+            color:black
+        }
+        h3{
+            color:aliceblue;
+        }
+        footer{
+            text-align: center;
+        }
